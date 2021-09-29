@@ -1,0 +1,5 @@
+tuple_1 = (12, [1, 2], 'xyz', (1, 3, 'hi'), 0)
+list_t1 = list(tuple_1)
+print(list_t1)
+tuple_a = tuple(list_t1)
+print(tuple_a)
